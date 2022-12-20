@@ -11,7 +11,7 @@ Do not lost ball!
 For each broken bricks you get different points and show part naked women body.
 
 ## Video intro:
-soon
+https://youtu.be/9tCT6B2Q02I
 
 ## Screenshots:
 soon
