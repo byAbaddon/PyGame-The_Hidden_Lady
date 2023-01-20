@@ -23,7 +23,7 @@ https://youtu.be/9tCT6B2Q02I
 ![6](https://user-images.githubusercontent.com/51271834/211601552-a0d322f5-aed4-4183-9740-3bf97deaf2b2.png)
 
 ### Download
-### For Linux AppImage that run anywhere
+#### For Linux AppImage that run anywhere
 https://github.com/byAbaddon/PyGame-The_Hidden_Lady/releases/tag/Version1.1
 
 ## Prerequisites
