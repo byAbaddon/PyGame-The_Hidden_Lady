@@ -27,6 +27,10 @@ https://youtu.be/9tCT6B2Q02I
 - [Python](https://www.python.org)
 - [Pygame](https://www.pygame.org/news), an open source Python library for making multimedia applications
 
+## Download
+### For Linux AppImage that run anywhere
+
+
 ### Developer
 By Abaddon
 
