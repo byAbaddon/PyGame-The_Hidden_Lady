@@ -22,14 +22,13 @@ https://youtu.be/9tCT6B2Q02I
 ![5](https://user-images.githubusercontent.com/51271834/211601547-f3ee7bb9-d9c6-4f7b-9ed3-e0b653b350a8.png)
 ![6](https://user-images.githubusercontent.com/51271834/211601552-a0d322f5-aed4-4183-9740-3bf97deaf2b2.png)
 
+### Download
+### For Linux AppImage that run anywhere
+https://github.com/byAbaddon/PyGame-The_Hidden_Lady/releases/tag/Version1.1
 
 ## Prerequisites
 - [Python](https://www.python.org)
 - [Pygame](https://www.pygame.org/news), an open source Python library for making multimedia applications
-
-## Download
-### For Linux AppImage that run anywhere
-
 
 ### Developer
 By Abaddon
